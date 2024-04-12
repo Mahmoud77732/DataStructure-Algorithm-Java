@@ -1,3 +1,4 @@
 javaapp1{
 * SimpleInterest
+* ChooseMathOperation
 }

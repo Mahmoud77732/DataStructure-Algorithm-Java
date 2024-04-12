@@ -1,2 +1,2 @@
-# DataStructure-Algorithm-Java
-Data Structure &amp; Algorithms with Java language
+# Data Structures and Algorithms in Java
+Data Structures and Algorithms and Problem Solving in Java programming language

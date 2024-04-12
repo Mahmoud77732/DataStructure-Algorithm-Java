@@ -2,4 +2,5 @@ javaapp1{
 * SimpleInterest
 * ChooseMathOperation
 * FibonacciSeries
+* PalindromeCheck
 }

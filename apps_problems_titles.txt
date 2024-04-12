@@ -3,4 +3,5 @@ javaapp1{
 * ChooseMathOperation
 * FibonacciSeries
 * PalindromeCheck
+* ArmstrongChecker
 }

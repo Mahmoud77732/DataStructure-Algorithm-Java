@@ -8,6 +8,10 @@ javaapp1{
 
 javaapp2{
 * AreaOfCircle
+* AreaOfIsoscelesTriangle
+* AreaOfRectangle
+* AreaOfTriangle
+* SubtractProductAndSumDigitsNum
 }
 
 
